@@ -15,4 +15,10 @@ public class NewTest {
 	{
 		System.out.println("--- new 2 ---");
 	}
+
+	@Test
+	public void editNew()
+	{
+		System.out.println("--- new ---");
+	}
 }
