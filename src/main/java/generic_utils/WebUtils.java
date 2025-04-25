@@ -7,5 +7,7 @@ public class WebUtils {
 	public void maximize(WebDriver driver)
 	{
 		driver.manage().window().maximize();
+
+		
 	}
 }
