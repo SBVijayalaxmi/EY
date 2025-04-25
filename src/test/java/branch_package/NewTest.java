@@ -19,6 +19,6 @@ public class NewTest {
 	@Test
 	public void editNew()
 	{
-		System.out.println("--- new ---");
+		System.out.println("--- new 3---");
 	}
 }
